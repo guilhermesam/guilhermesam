@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm a software enginner student in Universidade Federal do Pampa, located in Alegrete, Rio Grande do Sul, Brazil.
+I'm a software enginnering student in Universidade Federal do Pampa, located in Alegrete, Rio Grande do Sul, Brazil.
 
 🇧🇷 Brazilian developer;
 
