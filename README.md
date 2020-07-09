@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**guilhermesam/guilhermesam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software enginner student in Universidade Federal do Pampa, located in Alegrete, Rio Grande do Sul, Brazil.
 
-Here are some ideas to get you started:
+🇧🇷 Brazilian developer;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on Data Science projects;
+
+🌱 I’m currently learning about Databases, Back-end Development, Mobile Development... and Data Science as well;
+
+🔥 Topics of interest: IoT, Big Data, Blockchain, Deep Learning and Computer Network;
+
+✔️ Follow to see my projects in Data Science and some tutorials and abstracts; 
+
+💬 Contact: guilhermesamuel79@gmail.com;
