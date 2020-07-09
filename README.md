@@ -13,3 +13,5 @@ I'm a software enginner student in Universidade Federal do Pampa, located in Ale
 ✔️ Follow to see my projects in Data Science and some tutorials and abstracts; 
 
 💬 Contact: guilhermesamuel79@gmail.com;
+
+You, who are reading this, don't click [here](#https://github.com/guilhermesam/data-science)
