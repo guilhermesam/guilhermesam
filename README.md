@@ -3,9 +3,10 @@
 I'm a software enginnering student in Universidade Federal do Pampa, located in Alegrete, Rio Grande do Sul, Brazil.
 
 🎯 "If you can only do one thing, hone it to perfection. Hone it to the utmost limit!"
+
 [Just click and feel it](#https://www.youtube.com/watch?v=SlqR2LTFDNQ&list=PL5cKPIIsKxtPHiEpvvWM0A4O6agfqK4cq&index=2&t=0s)
 
-![ ](#https://wallpapercave.com/naruto-hokage-wallpaper-hd)
+[This link](https://wallpapercave.com/naruto-hokage-wallpaper-hd)
 
 🇧🇷 Brazilian developer;
 
