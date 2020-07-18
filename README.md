@@ -17,6 +17,8 @@ I'm a software enginnering student in Universidade Federal do Pampa, located in 
 
 ✔️ Follow to see my projects in Data Science and some tutorials and abstracts;
 
-🔥 [ ==> Just click and feel it](https://www.youtube.com/watch?v=qFHxHEpQ4uQ&list=PL5cKPIIsKxtPHiEpvvWM0A4O6agfqK4cq&index=5&t=0s)
+🔥 Projects:
+  [Video game data analysis based on Metacritic evaluations](#https://github.com/guilhermesam/data-science/tree/master/projects/metacritic-2011_2019)
+  [Analysis of the price of fuel in Brazil in 2019](#https://github.com/guilhermesam/data-science/tree/master/projects/fuel_2019)
 
 💬 Contact: guilhermesamuel79@gmail.com;
