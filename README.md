@@ -19,6 +19,8 @@ I'm a software enginnering student in Universidade Federal do Pampa, located in 
 
 🔥 Projects:
 
+* **[Do university cities (USA) have their average home prices less affected during recessions?](https://github.com/guilhermesam/data-science/blob/master/coursera/Introduction_to_Data_Science/Assignment_4/Assignment_4.ipynb)**
+
 * **[Video game data analysis based on Metacritic evaluations](https://github.com/guilhermesam/data-science/tree/master/projects/metacritic-2011_2019)**
 
 * **[Analysis of the price of fuel in Brazil in 2019](https://github.com/guilhermesam/data-science/tree/master/projects/fuel_2019)**
