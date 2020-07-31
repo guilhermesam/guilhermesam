@@ -1,5 +1,3 @@
-### Hello there 👋
-
 [![guilhermesam's github stats](https://github-readme-stats.vercel.app/api?username=guilhermesam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm a software enginnering student in Universidade Federal do Pampa, located in Alegrete, Rio Grande do Sul, Brazil.
