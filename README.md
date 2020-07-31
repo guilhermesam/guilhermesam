@@ -1,7 +1,6 @@
 ### Hello there 👋
 
-![Warriors](https://www.tec.com.pe/wp-content/uploads/2014/09/LoL-Imagine-Dragons-Warrior-2.jpg)
-
+[![guilhermesam's github stats](https://github-readme-stats.vercel.app/api?username=guilhermesam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm a software enginnering student in Universidade Federal do Pampa, located in Alegrete, Rio Grande do Sul, Brazil.
 
