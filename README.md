@@ -10,7 +10,7 @@ I'm a software enginnering student in Universidade Federal do Pampa, located in 
 
 🔭 I’m currently working on Data Science projects;
 
-🌱 I’m currently learning about Databases, Back-end Development, Mobile Development... and Data Science as well;
+🌱 I’m currently learning about Databases, Back-end Development, Statistics... and Data Science as well;
 
 💻 Topics of interest: IoT, Big Data, Blockchain, Deep Learning and Computer Network;
 
