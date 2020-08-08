@@ -18,7 +18,7 @@ I'm a software enginnering student in Universidade Federal do Pampa, located in 
 
 * **[Analysis of the price of fuel in Brazil in 2019](https://github.com/guilhermesam/data-science/tree/master/projects/fuel_2019)**
 
-* **[Insights of League of Legends Competitive Matches](https://github.com/guilhermesam/data-science/tree/master/projects/lol-analysis)**
+* **[Insights of League of Legends Competitive Matches](https://github.com/guilhermesam/data-science/blob/master/projects/lol-analysis/storytelling.ipynb)**
 
 * **[Video game data analysis based on Metacritic evaluations](https://github.com/guilhermesam/data-science/tree/master/projects/metacritic-2011_2019)**
 
