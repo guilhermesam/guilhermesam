@@ -18,10 +18,12 @@ I'm a software enginnering student in Universidade Federal do Pampa, located in 
 
 🔥 Projects: 
 
+* **[Implementations of some supervised ML models](https://github.com/guilhermesam/machine-learning)**
+
+* **[School management website with Django](https://github.com/guilhermesam/skool)**
+
 * **[Analysis of fuel prices in the first half of 2019 in Brazil](https://github.com/guilhermesam/data-science/blob/master/projects/fuel_2019/storytelling.ipynb)**
 
 * **[Do university cities (USA) have their average home prices less affected during recessions?](https://github.com/guilhermesam/data-science/blob/master/coursera/Introduction_to_Data_Science/Assignment_4/Assignment_4.ipynb)**
-
-* **[League of Legends competitive match analysis](https://github.com/guilhermesam/data-science/blob/master/projects/lol-analysis/storytelling.ipynb)**
 
 * **[Temperature Records (2005 - 2014) vs. Temperature Records Broken in 2015 - Region of Ann Arbor, Michigan](https://github.com/guilhermesam/data-science/blob/master/coursera/Applied_Plotting_Charting%26_Data_Representation/Assignment_2/Assignment2.ipynb)**
